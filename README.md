@@ -90,6 +90,6 @@ ros2 run universal_robot_ign test_gripper.py
 
 ## References
 
-This project is based on the works in repositories [universal_robot_ign](https://github.com/gezp/universal_robot_ign)
-and [ navigation2_ignition_gazebo_example]([https://github.com/gezp/universal_robot_ign](https://github.com/art-e-fact/navigation2_ignition_gazebo_example/tree/main))
+This project is based on the works in the repositories [universal_robot_ign](https://github.com/gezp/universal_robot_ign) and [navigation2_ignition_gazebo_example](https://github.com/art-e-fact/navigation2_ignition_gazebo_example/tree/main).
+
 
