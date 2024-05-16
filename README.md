@@ -12,7 +12,7 @@ Modify the absoulte path in the file "moveo.urdf.xacro" under the path "src/mobi
 ```
 # Install Nav2 dependencies
 sudo apt install ros-humble-navigation2 ros-humble-nav2-bringup
-sudo apt-get install ros-humble-moveit
+sudo apt install ros-humble-moveit
 
 # Import source dependencies
 pip3 install vcstool
